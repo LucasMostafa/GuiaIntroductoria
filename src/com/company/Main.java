@@ -16,9 +16,9 @@ public class Main {
 
         System.out.println("\nDiferencia  de la variable N y A: " + resta(A, N));
 
-        int ascii= C;
+        int ascii= 'Z';
 
-        System.out.println("\nValor numerico del caracter 'p': " + ascii);
+        System.out.println("\nValor numerico del caracter 'Z': " + ascii);
 
         //Ejercicio 2
         /*int X= 10;
