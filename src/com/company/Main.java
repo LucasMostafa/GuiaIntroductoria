@@ -6,7 +6,7 @@ public class Main {
         //Ejercicio 1
         int N= 10;
         double A= 20;
-        char C= 'p';
+        char C = 'Z';
 
         System.out.println("Variable N (Int): " + N);
         System.out.println("Variable A (Double):" + A);
